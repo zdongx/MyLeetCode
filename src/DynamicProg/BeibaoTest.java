@@ -1,3 +1,5 @@
+package DynamicProg;
+
 public class BeibaoTest {
     public static void main(String[] args) {
         int[] weight = {1 ,3 ,4, 5};
